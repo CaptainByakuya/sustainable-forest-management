@@ -1,0 +1,4 @@
+1. Use drones to monitor illegal logging activities.
+2. AI-powered satellite imagery to detect forest cover loss.
+3. IoT sensors to track soil moisture and prevent forest fires.
+4. Data dashboards for policymakers to visualize forest health.
